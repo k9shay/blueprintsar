@@ -41,8 +41,8 @@ This is an independent, civic-tech project built entirely for the public good. W
 ---
 
 ## 📬 Contact & Connect
-* **Project Founder:** [Your Name]
-* **Website:** [http://blueprintsar.com](http://blueprintsar.com)
-* **Email:** [Your Email Address]
+* **Project Founder:** Shay Cook
+* **Website:** www.blueprintsar.com
+* **Email:** shay@k9shay.com
 
 *If you want to use your engineering skills to build something that literally saves lives, we would love to have you on board.*
